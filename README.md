@@ -1,2 +1,2 @@
-# patternreconization
+# Pattern Reconization
 Pattern Reconization
